@@ -1,0 +1,33 @@
+_repo: Bygone-Cumberland-and-Westmorland_37891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Daniel
+    gutenberg_agent_id: '39118'
+    url: http://www.gutenberg.org/2009/agents/39118
+description: ''
+gutenberg_issued: '2011-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37891'
+  lccn: '01027375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westmorland (England) -- Social life and customs'
+- !lcc 'DA'
+- !lcsh 'Westmorland (England) -- Antiquities'
+- !lcsh 'Cumberland (England) -- Social life and customs'
+- !lcsh 'Cumberland (England) -- Antiquities'
+tableOfContents: An unparalleled sheriffwick -- Watch and ward -- Fighting bishops
+  and fortified churches -- Some church curiosities -- Manorial laws and curiosities
+  of tenures -- Old-time punishments -- Some legends and superstitions -- Four lucks
+  -- Some old trading laws and customs -- Old-time home life -- Sports and festivities
+  -- On the road -- Old customs -- Old school customs.
+title: Bygone Cumberland and Westmorland
+url: http://www.gutenberg.org/ebooks/37891
