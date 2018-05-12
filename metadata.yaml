@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39118'
     url: http://www.gutenberg.org/2009/agents/39118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37891#Bygone-Cumberland-and-Westmorland
 gutenberg_issued: '2011-10-31'
 gutenberg_type: Text
 identifiers:
